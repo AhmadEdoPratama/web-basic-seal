@@ -1,0 +1,71 @@
+/* navbar */
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(7, 193, 206);
+}
+
+.navbar li {
+    float: left;
+}
+
+.active {
+    background-color: #004a6d;
+}
+
+.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar li a:hover {
+    background-color: rgb(216, 37, 91);
+}
+
+.table1 {
+    font-family: sans-serif;
+    border-collapse: collapse;
+}
+
+.table1,
+th,
+td {
+    padding: 8px 20px;
+    background-color: #fff;
+}
+
+.table1,
+h1,
+a {
+    color: #fff;
+}
+
+/*design form */
+input[type=submit] {
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 8px 13px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+div {
+    padding: 22px;
+}
+
+body {
+    background-color: rgb(81, 88, 180);
+    font-family: sans-serif;
+    font-size: 100%;
+    padding: 30px;
+}
+
+.nama1 {
+    color: #fff;
+}
